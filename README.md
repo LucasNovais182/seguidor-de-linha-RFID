@@ -3,11 +3,13 @@ Trabalho acadêmico de Estrutura de Dados do 4º Semestre onde o objetivo era fa
 
 Link video do nosso robô seguindo linha: https://www.linkedin.com/posts/gabriel-ramos-dos-santos_seguidor-de-linha-feito-como-trabalho-semestral-activity-6599352756769697792-sPY2
 
-Autores do projeto: <br>
-Douglas Ferreira<br>
-Gabriel Ramos<br>
-Jefferson Gomes<br>
-Lucas Oliveira<br>
-Victor Camacho
+<b>Autores do projeto:</b> <br>
+<ul>
+  <li>Douglas Ferreira</li>
+  <li>Gabriel Ramos</li>
+  <li>Jefferson Gomes</li>
+  <li>Lucas Oliveira</li>
+  <li>Victor Camacho</li>
+ </ul>
   
   
